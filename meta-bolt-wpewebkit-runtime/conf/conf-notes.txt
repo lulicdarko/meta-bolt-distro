@@ -1,0 +1,7 @@
+### Bolt Backend Layer ###
+
+WPE-WebKit 2.46 + TTS with Firebolt backend
+
+Build:
+  bitbake wpe-webkit
+  bitbake tts
